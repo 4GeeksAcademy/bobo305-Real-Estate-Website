@@ -5,3 +5,7 @@ body{
 .heading {
     background-color: white;
 }
+
+.start {
+    padding: 60px;
+}
