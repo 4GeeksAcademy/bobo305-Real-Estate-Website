@@ -7,5 +7,13 @@ body{
 }
 
 .start {
-    padding: 60px;
+    padding: 40px;
+    margin-bottom: 60px;
+}
+
+.container {
+    background: lightgray;
+    padding: 40px;
+    
+    
 }
