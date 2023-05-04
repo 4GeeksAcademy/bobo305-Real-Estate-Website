@@ -25,6 +25,10 @@ body{
     height: 25%;
     z-index: 0; 
 }
+
+.portfolio{
+    background-color: white;
+}
     
     .text-over-img {
     z-index: 3;
@@ -34,3 +38,6 @@ body{
     background-color: whitesmoke;
  }
     
+ .row {
+    background-color: white;
+ }
