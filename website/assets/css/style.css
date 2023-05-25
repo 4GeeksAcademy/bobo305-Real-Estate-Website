@@ -20,6 +20,7 @@ body{
     background: lightgray;
     padding: 40px;
     margin: 10%;
+    text-align: center
     
 }
 .container-fluid {
@@ -50,7 +51,22 @@ body{
 
 
 
- .round_img{
-    float: right;
+ .round_imgs{
+
  }
 
+
+ .round_imgs-right{
+    float: right;
+    margin: 5px;
+ }
+
+.round_imgs-left{
+    float: left;
+    margin: 5px;
+}
+
+.pJulio{
+    text-align: justify;
+    font-size: 25px;
+}
